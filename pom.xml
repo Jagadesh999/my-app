@@ -58,7 +58,7 @@
    		<maven.compiler.source>7</maven.compiler.source>
    		<maven.compiler.target>1.7</maven.compiler.target>
    		<!-- SonarQube Server IP -->
-   		<sonar.host.url>http://100.27.199.18/</sonar.host.url>
+   		<sonar.host.url>http://100.27.199.18:9000/</sonar.host.url>
  	</properties>
 
 </project>
